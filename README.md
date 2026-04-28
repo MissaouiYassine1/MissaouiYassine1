@@ -166,6 +166,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MissaouiYassine1/MissaouiYassine1/output/snake.svg" alt="Snake animation" />
 
-###
