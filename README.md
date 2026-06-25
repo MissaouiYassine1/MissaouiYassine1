@@ -26,7 +26,7 @@
 
 - 🔭 Currently working on personal and academic **full-stack web** projects
 - 🌱 Currently deepening my skills in **React, Next.js**, and cloud deployment
-- 🎯 2026 goal: strengthen my **backend & DevOps** expertise
+- 🎯 2026 goal: strengthen my **DevSecOps** expertise
 - 🤝 Open to collaborating on web development, automation, and embedded systems projects
 - ⚡ Fun fact: I approach every project like a football match — strategy, teamwork, and a winning mindset
 
